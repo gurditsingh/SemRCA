@@ -299,6 +299,20 @@ Each service could expose capabilities through APIs and/or MCP, allowing SemRCA 
 
 ---
 
+## Design Documentation
+
+The high-level README is supported by more focused design notes:
+
+- [Architecture](docs/architecture.md)
+- [Connector Contracts](docs/connector-contracts.md)
+- [Semantic Lineage Graph](docs/semantic-lineage-graph.md)
+- [RCA Engine](docs/rca-engine.md)
+- [Decision Models](docs/decision-models.md)
+
+See the [docs index](docs/README.md) for the current documentation set.
+
+---
+
 ## Current Exploration
 
 Areas currently being explored:
